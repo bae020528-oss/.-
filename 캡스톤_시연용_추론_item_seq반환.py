@@ -1,3 +1,5 @@
+!pip install ultralytics
+
 # -*- coding: utf-8 -*-
 """캡스톤_시연용_추론_item_seq반환
 
